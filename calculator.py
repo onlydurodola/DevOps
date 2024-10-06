@@ -54,4 +54,4 @@ option = input(f"Type 'y' to continue calculating with {print(start())} , or typ
 # else:
 #     os.system("cls")
 #     begin()
-#interesting
+#interesting.
