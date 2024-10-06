@@ -57,3 +57,4 @@ while not game_over:
 
     # TODO-2: - Update the code below to use the stages List from the file hangman_art.py
     print(stages[lives])
+#just making an adjustment
